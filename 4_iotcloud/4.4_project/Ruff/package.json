@@ -1,0 +1,14 @@
+{
+    "name": "ruff",
+    "version": "0.1.0",
+    "description": "",
+    "author": "",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "azure-iot-device-mqtt": "^0.2.0",
+            "azure-iot-device": "^0.2.0"
+        },
+        "version": 1
+    }
+}

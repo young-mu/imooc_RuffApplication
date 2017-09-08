@@ -1,0 +1,22 @@
+{
+    "name": "azure-iot-common",
+    "version": "0.1.1",
+    "description": "Common components shared by Azure IoT device and service SDKs (v1.1.5) ported for Ruff",
+    "author": [
+        "Microsoft Corporation",
+        "Nanchao Inc."
+    ],
+    "license": "MIT",
+    "main": "common.js",
+    "engines": {
+        "ruff": "^1.7.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ruffjs/azure-iot-common.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ruffjs/azure-iot-common/issues"
+    },
+    "homepage": "https://github.com/ruffjs/azure-iot-common#readme"
+}

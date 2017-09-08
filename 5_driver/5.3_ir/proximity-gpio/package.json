@@ -1,0 +1,22 @@
+{
+    "name": "proximity-gpio",
+    "version": "0.1.0",
+    "description": "An IR proximity sensor using GPIO interface",
+    "author": "Young",
+    "main": "src/index.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/young-mu/ruff-drivers/tree/master/proximity-gpio"
+    },
+    "bugs": {
+        "url": "https://github.com/young-mu/ruff-drivers/tree/master/proximity-gpio/issues"
+    },
+    "homepage": "https://github.com/young-mu/ruff-drivers/tree/master/proximity-gpio",
+    "keywords": [
+        "IR",
+        "sensor",
+        "E18-D80NK",
+        "GPIO"
+    ]
+}

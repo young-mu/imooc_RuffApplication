@@ -1,0 +1,12 @@
+{
+    "name": "Bill",
+    "age": 25,
+    "parents": {
+        "mother": "A",
+        "father": "B"
+    },
+    "hobbies": [
+        "football",
+        "swim"
+    ]
+}

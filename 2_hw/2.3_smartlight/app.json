@@ -1,0 +1,34 @@
+{
+    "devices": [
+        {
+            "id": "relay",
+            "model": "RELAY-1C",
+            "driver": "relay-1c",
+            "inputs": {
+                "gpio": {
+                    "type": "gpio",
+                    "args": {
+                        "direction": "out",
+                        "level": "high"
+                    }
+                }
+            }
+        },
+        {
+            "id": "light",
+            "model": "GY-30",
+            "driver": "gy-30",
+            "args": {
+                "highResolution": false
+            },
+            "inputs": {
+                "i2c": {
+                    "type": "i2c",
+                    "args": {
+                        "address": 35
+                    }
+                }
+            }
+        }
+    ]
+}

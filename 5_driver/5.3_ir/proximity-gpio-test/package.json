@@ -1,0 +1,13 @@
+{
+    "name": "proximity-gpio-test",
+    "version": "0.1.0",
+    "description": "",
+    "author": "",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "proximity-gpio": "*"
+        },
+        "version": 1
+    }
+}

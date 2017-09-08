@@ -1,0 +1,21 @@
+{
+    "featureVersion": "0.1",
+    "models": [
+        "E18-D80NK"
+    ],
+    "inputs": {
+        "gpio": {
+            "type": "gpio",
+            "args": {
+                "direction": "in",
+                "edge": "both"
+            },
+            "features": {
+                "input": [
+                    "read",
+                    "interrupt"
+                ]
+            }
+        }
+    }
+}
